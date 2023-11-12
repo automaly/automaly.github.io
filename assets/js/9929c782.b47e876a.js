@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkautomaly_com=self.webpackChunkautomaly_com||[]).push([[1275],{60028:a=>{a.exports=JSON.parse('{"label":"fun","permalink":"/automaly.com/blog/tags/fun","allTagsPath":"/automaly.com/blog/tags","count":1,"unlisted":true}')}}]);

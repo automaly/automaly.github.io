@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkautomaly_com=self.webpackChunkautomaly_com||[]).push([[9604],{39718:a=>{a.exports=JSON.parse('{"label":"Create Purchase order X++","permalink":"/automaly.com/blog/tags/create-purchase-order-x","allTagsPath":"/automaly.com/blog/tags","count":1,"unlisted":false}')}}]);

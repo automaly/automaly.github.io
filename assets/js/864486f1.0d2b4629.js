@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkautomaly_com=self.webpackChunkautomaly_com||[]).push([[4792],{14197:a=>{a.exports=JSON.parse('{"label":"skip standard code","permalink":"/automaly.com/blog/tags/skip-standard-code","allTagsPath":"/automaly.com/blog/tags","count":1,"unlisted":false}')}}]);
