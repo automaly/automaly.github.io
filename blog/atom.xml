@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.com/blog</id>
-    <title>Automaly X++ Blog</title>
+    <title>Automaly X++ Dynamics 365 Finance Operations Blog</title>
     <updated>2022-10-27T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://automaly.com/blog"/>
-    <subtitle>Automaly X++ Blog</subtitle>
+    <subtitle>Automaly X++ Dynamics 365 Finance Operations Blog</subtitle>
     <icon>https://automaly.com/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[How to get FinOps Azure storage blob connection string]]></title>
