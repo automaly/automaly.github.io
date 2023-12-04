@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkautomaly_com=self.webpackChunkautomaly_com||[]).push([[6321],{59830:o=>{o.exports=JSON.parse('{"permalink":"/automaly.com/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

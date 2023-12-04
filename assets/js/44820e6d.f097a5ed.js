@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkautomaly_com=self.webpackChunkautomaly_com||[]).push([[6232],{17917:a=>{a.exports=JSON.parse('{"label":"onebox vhd","permalink":"/automaly.com/blog/tags/onebox-vhd","allTagsPath":"/automaly.com/blog/tags","count":1,"unlisted":false}')}}]);

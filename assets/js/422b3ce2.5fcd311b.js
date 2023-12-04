@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkautomaly_com=self.webpackChunkautomaly_com||[]).push([[1506],{47262:a=>{a.exports=JSON.parse('{"permalink":"/automaly.com/blog/tags/upgrade","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
