@@ -4,8 +4,8 @@
   <ShortName>Automaly</ShortName>
   <Description>Search Automaly</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://automaly.com/img/favicon.ico</Image>
-  <Url type="text/html" method="get" template="https://automaly.com/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://automaly.com/opensearch.xml" />
-  <moz:SearchForm>https://automaly.com/</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://automaly.github.io/img/favicon.ico</Image>
+  <Url type="text/html" method="get" template="https://automaly.github.io/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://automaly.github.io/opensearch.xml" />
+  <moz:SearchForm>https://automaly.github.io/</moz:SearchForm>
 </OpenSearchDescription>
