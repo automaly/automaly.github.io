@@ -159,7 +159,7 @@ For example, I created a project and add a new runnable class named Alex:</p>
 <p>From the Start menu, open Microsoft Azure Storage Emulator - v4.0, and run the following commands.</p>
 <p><code>AzureStorageEmulator.exe start</code></p>
 <blockquote>
-<p>If you got an error <strong><em>Port conflict with existing application</em></strong>, please check this <a href="https://automaly.com/2020-04-05-azure-storage-emulator-port-conflict-with-existing-application">post</a>.</p>
+<p>If you got an error <strong><em>Port conflict with existing application</em></strong>, please check this <a href="https://automaly.com/operation/troubleshooting/2020-04-05-azure-storage-emulator-port-conflict-with-existing-application">post</a>.</p>
 </blockquote>
 </li>
 <li>
