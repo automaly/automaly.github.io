@@ -2,16 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/</id>
     <title>Automaly Blog</title>
-    <updated>2022-12-21T00:00:00.000Z</updated>
+    <updated>2023-12-21T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://automaly.github.io/"/>
     <subtitle>Automaly Blog</subtitle>
     <icon>https://automaly.github.io/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[How to hide New and Delete buttons (command buttons) in form]]></title>
-        <id>https://automaly.github.io/2023/12/20/index</id>
-        <link href="https://automaly.github.io/2023/12/20/index"/>
-        <updated>2022-12-21T00:00:00.000Z</updated>
+        <id>https://automaly.github.io/2023/12/21/How-to-hide-New-and-Delete-buttons-in-form-1</id>
+        <link href="https://automaly.github.io/2023/12/21/How-to-hide-New-and-Delete-buttons-in-form-1"/>
+        <updated>2023-12-21T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[We can change the form design property Show Delete Button, Show New Button  to No.]]></summary>
         <content type="html"><![CDATA[<p>We can change the form design property <code>Show Delete Button</code>, <code>Show New Button</code>  to <code>No</code>.</p>
 <p><img loading="lazy" alt="Alt text" src="https://automaly.github.io/assets/images/image-b93de342b1bb7666979755d23d42f29f.png" width="1468" height="531" class="img_ev3q"></p>
@@ -87,7 +87,7 @@ For example, I created a project and add a new runnable class named Alex:</p>
         <category label="skip standard code" term="skip standard code"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Getting onebox VHD Dynamics 365 finance and operations virtual machine]]></title>
+        <title type="html"><![CDATA[Advanced & Auto Bank Reconciliation in Dynamics 365 Finance]]></title>
         <id>https://automaly.github.io/2020/04/06/getting-onebox-vhd-dynamics-365-finance-and-operations-virtual-machine</id>
         <link href="https://automaly.github.io/2020/04/06/getting-onebox-vhd-dynamics-365-finance-and-operations-virtual-machine"/>
         <updated>2020-04-06T00:00:00.000Z</updated>

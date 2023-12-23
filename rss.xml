@@ -4,15 +4,15 @@
         <title>Automaly Blog</title>
         <link>https://automaly.github.io/</link>
         <description>Automaly Blog</description>
-        <lastBuildDate>Wed, 21 Dec 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Dec 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <item>
             <title><![CDATA[How to hide New and Delete buttons (command buttons) in form]]></title>
-            <link>https://automaly.github.io/2023/12/20/index</link>
-            <guid>https://automaly.github.io/2023/12/20/index</guid>
-            <pubDate>Wed, 21 Dec 2022 00:00:00 GMT</pubDate>
+            <link>https://automaly.github.io/2023/12/21/How-to-hide-New-and-Delete-buttons-in-form-1</link>
+            <guid>https://automaly.github.io/2023/12/21/How-to-hide-New-and-Delete-buttons-in-form-1</guid>
+            <pubDate>Thu, 21 Dec 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[We can change the form design property Show Delete Button, Show New Button  to No.]]></description>
             <content:encoded><![CDATA[<p>We can change the form design property <code>Show Delete Button</code>, <code>Show New Button</code>  to <code>No</code>.</p>
 <p><img loading="lazy" alt="Alt text" src="https://automaly.github.io/assets/images/image-b93de342b1bb7666979755d23d42f29f.png" width="1468" height="531" class="img_ev3q"></p>
@@ -76,7 +76,7 @@ For example, I created a project and add a new runnable class named Alex:</p>
             <category>skip standard code</category>
         </item>
         <item>
-            <title><![CDATA[Getting onebox VHD Dynamics 365 finance and operations virtual machine]]></title>
+            <title><![CDATA[Advanced & Auto Bank Reconciliation in Dynamics 365 Finance]]></title>
             <link>https://automaly.github.io/2020/04/06/getting-onebox-vhd-dynamics-365-finance-and-operations-virtual-machine</link>
             <guid>https://automaly.github.io/2020/04/06/getting-onebox-vhd-dynamics-365-finance-and-operations-virtual-machine</guid>
             <pubDate>Mon, 06 Apr 2020 00:00:00 GMT</pubDate>
