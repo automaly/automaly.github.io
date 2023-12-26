@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkautomaly_com=self.webpackChunkautomaly_com||[]).push([[7458],{1736:a=>{a.exports=JSON.parse('{"label":"Create Purchase order X++","permalink":"/tags/create-purchase-order-x","allTagsPath":"/tags","count":1,"unlisted":false}')}}]);

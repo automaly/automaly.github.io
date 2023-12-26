@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkautomaly_com=self.webpackChunkautomaly_com||[]).push([[9518],{24770:a=>{a.exports=JSON.parse('{"label":"Workspace","permalink":"/blog/tags/workspace","allTagsPath":"/blog/tags","count":1,"unlisted":true}')}}]);
