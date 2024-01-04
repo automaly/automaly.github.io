@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkautomaly_com=self.webpackChunkautomaly_com||[]).push([[5686],{67363:o=>{o.exports=JSON.parse('{"permalink":"/blog/tags/power-bi","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

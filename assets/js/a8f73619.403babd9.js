@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkautomaly_com=self.webpackChunkautomaly_com||[]).push([[420],{30906:a=>{a.exports=JSON.parse('{"label":"Kusto","permalink":"/blog/tags/kusto","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);
