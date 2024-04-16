@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkautomaly_com=self.webpackChunkautomaly_com||[]).push([[2853],{15269:e=>{e.exports=JSON.parse('{"title":"Development","slug":"/category/development","permalink":"/category/development","navigation":{"previous":{"title":"Head Metadata","permalink":"/integration/overview-bk/"},"next":{"title":"X++","permalink":"/category/x"}}}')}}]);
