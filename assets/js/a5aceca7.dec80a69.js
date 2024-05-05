@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkautomaly_com=self.webpackChunkautomaly_com||[]).push([[5351],{1901:t=>{t.exports=JSON.parse('{"label":"New button","permalink":"/blog/tags/new-button","allTagsPath":"/blog/tags","count":1,"unlisted":true}')}}]);
