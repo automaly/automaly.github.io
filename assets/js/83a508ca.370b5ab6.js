@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkautomaly_com=self.webpackChunkautomaly_com||[]).push([[4923],{77137:a=>{a.exports=JSON.parse('{"label":"xpp","permalink":"/blog/tags/xpp","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);
