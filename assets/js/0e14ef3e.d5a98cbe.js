@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkautomaly_com=self.webpackChunkautomaly_com||[]).push([[5550],{33381:a=>{a.exports=JSON.parse('{"label":"OneBox","permalink":"/blog/tags/one-box","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);
