@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>MB-500 on Automaly</title><link>https://automaly.com/tags/mb-500/</link><description>Recent content in MB-500 on Automaly</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>luan52@outlook.com (Max Nguyen)</managingEditor><webMaster>luan52@outlook.com (Max Nguyen)</webMaster><lastBuildDate>Sun, 05 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://automaly.com/tags/mb-500/index.xml" rel="self" type="application/rss+xml"/><item><title>MB-500: Microsoft Dynamics 365: Finance and Operations Apps Developer</title><link>https://automaly.com/cert-learn/biz-app-learning/2023-02-05-mb-500/</link><pubDate>Sun, 05 Feb 2023 00:00:00 +0000</pubDate><author>luan52@outlook.com (Max Nguyen)</author><guid>https://automaly.com/cert-learn/biz-app-learning/2023-02-05-mb-500/</guid><description>&lt;p>&lt;strong>Exam/Learning Path:&lt;/strong> &lt;a
+href="https://docs.microsoft.com/certifications/exams/mb-500"
+target="_blank"
+>https://docs.microsoft.com/certifications/exams/mb-500&lt;/a>&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>&lt;strong>Learning Path&lt;/strong>&lt;/th>
+&lt;th>&lt;strong>Module&lt;/strong>&lt;/th>
+&lt;th>&lt;strong>Week&lt;/strong>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;strong>&lt;a
+href="https://docs.microsoft.com/learn/paths/introduction-develop-finance-operations/"
+target="_blank"
+>Introduction to developing with Finance and Operations apps&lt;/a>&lt;/strong>&lt;/td>
+&lt;td>&lt;a
+href="https://docs.microsoft.com/learn/modules/explore-ecosystem-main-components-finance-operations/"
+target="_blank"
+>Explore the ecosystem and main components of Finance and Operations apps&lt;/a>&lt;/td>
+&lt;td>&lt;strong>1&lt;/strong>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;a
+href="https://docs.microsoft.com/learn/modules/explore-technical-architecture-finance-operations/"
+target="_blank"
+>Explore the technical architecture of Finance and Operations apps&lt;/a>&lt;/td>
+&lt;td>&lt;strong>2&lt;/strong>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;a
+href="https://docs.microsoft.com/learn/modules/design-deployment-finance-operations/"
+target="_blank"
+>Explore design and deployment considerations for Finance and Operations apps&lt;/a>&lt;/td>
+&lt;td>&lt;strong>3&lt;/strong>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;a
+href="https://docs.microsoft.com/learn/modules/manage-lifecycle-services-finance-operations/"
+target="_blank"
+>Manage Finance and Operations apps implementations by using Lifecycle Services&lt;/a>&lt;/td>
+&lt;td>&lt;strong>4&lt;/strong>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;a
+href="https://docs.microsoft.com/learn/modules/performance-monitoring-finance-operations/"
+target="_blank"
+>Work with performance and monitoring tools in Finance and Operations apps&lt;/a>&lt;/td>
+&lt;td>&lt;strong>5&lt;/strong>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;a
+href="https://docs.microsoft.com/learn/modules/manage-source-code-version-control-finance-operations/"
+target="_blank"
+>Manage source code by using version control in Finance and Operations apps&lt;/a>&lt;/td>
+&lt;td>&lt;strong>6&lt;/strong>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;a
+href="https://docs.microsoft.com/learn/modules/explore-test-framework-tools-finance-operations/"
+target="_blank"
+>Explore the test framework and tools in Finance and Operations apps&lt;/a>&lt;/td>
+&lt;td>&lt;strong>7&lt;/strong>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;a
+href="https://docs.microsoft.com/learn/modules/explore-reporting-tools-finance-operations/"
+target="_blank"
+>Explore reporting tools in Finance and Operations apps&lt;/a>&lt;/td>
+&lt;td>&lt;strong>8&lt;/strong>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>&lt;a
+href="https://docs.microsoft.com/learn/paths/build-finance-operations/"
+target="_blank"
+>Build Finance and Operations apps&lt;/a>&lt;/strong>&lt;/td>
+&lt;td>&lt;a
+href="https://docs.microsoft.com/learn/modules/customize-visual-studio-finance-operations/"
+target="_blank"
+>Start developing for Finance and Operations apps by using Visual Studio&lt;/a>&lt;/td>
+&lt;td>&lt;strong>9&lt;/strong>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;a
+href="https://docs.microsoft.com/learn/modules/get-started-xpp-finance-operations/"
+target="_blank"
+>Get started with development using X++ in Finance and Operations apps&lt;/a>&lt;/td>
+&lt;td>&lt;strong>10&lt;/strong>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;a
+href="https://docs.microsoft.com/learn/modules/develop-object-oriented-code-finance-operations/"
+target="_blank"
+>Develop object-oriented code in Finance and Operations apps&lt;/a>&lt;/td>
+&lt;td>&lt;strong>11&lt;/strong>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;a
+href="https://docs.microsoft.com/learn/modules/application-lifecycle-finance-operations/"
+target="_blank"
+>Implement application lifecycle management in Finance and Operations apps&lt;/a>&lt;/td>
+&lt;td>&lt;strong>12&lt;/strong>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;a
+href="https://docs.microsoft.com/learn/modules/build-edt-enums-finance-operations/"
+target="_blank"
+>Build extended data types and enumerations for Finance and Operations apps&lt;/a>&lt;/td>
+&lt;td>&lt;strong>13&lt;/strong>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;a
+href="https://docs.microsoft.com/learn/modules/build-tables-finance-operations/"
+target="_blank"
+>Build tables in Finance and Operations apps&lt;/a>&lt;/td>
+&lt;td>&lt;strong>14&lt;/strong>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;a
+href="https://docs.microsoft.com/learn/modules/build-forms-optimize-finance-operations/"
+target="_blank"
+>Build forms and optimize form performance in Finance and Operations apps&lt;/a>&lt;/td>
+&lt;td>&lt;strong>15&lt;/strong>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;a
+href="https://docs.microsoft.com/learn/modules/create-classes-finance-operations/"
+target="_blank"
+>Create classes in Finance and Operations apps&lt;/a>&lt;/td>
+&lt;td>&lt;strong>16&lt;/strong>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;a
+href="https://docs.microsoft.com/learn/modules/build-reports-finance-operations/"
+target="_blank"
+>Build reports for Finance and Operations apps&lt;/a>&lt;/td>
+&lt;td>&lt;strong>17&lt;/strong>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;a
+href="https://docs.microsoft.com/learn/modules/build-workspaces-finance-operations/"
+target="_blank"
+>Build workspaces in Finance and Operations apps&lt;/a>&lt;/td>
+&lt;td>&lt;strong>18&lt;/strong>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;a
+href="https://docs.microsoft.com/learn/modules/role-security-finance-operations/"
+target="_blank"
+>Implement role-based security in Finance and Operations apps&lt;/a>&lt;/td>
+&lt;td>&lt;strong>19&lt;/strong>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;a
+href="https://docs.microsoft.com/learn/modules/apply-basic-performance-optimization-finance-operations/"
+target="_blank"
+>Apply basic performance optimization in Finance and Operations apps&lt;/a>&lt;/td>
+&lt;td>&lt;strong>20&lt;/strong>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>&lt;a
+href="https://docs.microsoft.com/learn/paths/extending-finance-operations/"
+target="_blank"
+>Extend Finance and Operations apps&lt;/a>&lt;/strong>&lt;/td>
+&lt;td>&lt;a
+href="https://docs.microsoft.com/learn/modules/explore-extensions-framework-finance-operations/"
+target="_blank"
+>Explore extensions and the extension framework in Finance and Operations apps&lt;/a>&lt;/td>
+&lt;td>&lt;strong>21&lt;/strong>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;a
+href="https://docs.microsoft.com/learn/modules/extend-elements-finance-operations/"
+target="_blank"
+>Extend elements in Finance and Operations apps&lt;/a>&lt;/td>
+&lt;td>&lt;strong>22&lt;/strong>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;a
+href="https://docs.microsoft.com/learn/modules/business-events-finance-operations/"
+target="_blank"
+>Consume business events in Finance and Operations apps&lt;/a>&lt;/td>
+&lt;td>&lt;strong>23&lt;/strong>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>&lt;a
+href="https://docs.microsoft.com/learn/paths/connect-finance-operations/"
+target="_blank"
+>Connect to Finance and Operations apps&lt;/a>&lt;/strong>&lt;/td>
+&lt;td>&lt;a
+href="https://docs.microsoft.com/learn/modules/integration-patterns-finance-operations/"
+target="_blank"
+>Identify data integration patterns and scenarios in Finance and Operations apps&lt;/a>&lt;/td>
+&lt;td>&lt;strong>24&lt;/strong>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;a
+href="https://docs.microsoft.com/learn/modules/integration-concepts-finance-operations/"
+target="_blank"
+>Implement data integration concepts and solutions for Finance and Operations apps&lt;/a>&lt;/td>
+&lt;td>&lt;strong>25&lt;/strong>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;a
+href="https://docs.microsoft.com/learn/modules/data-package-api-finance-operations/"
+target="_blank"
+>Implement the Data management package API for Finance and Operations apps&lt;/a>&lt;/td>
+&lt;td>&lt;strong>26&lt;/strong>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;a
+href="https://docs.microsoft.com/learn/modules/data-integrations-finance-operations/"
+target="_blank"
+>Data integrations with Finance and Operations apps&lt;/a>&lt;/td>
+&lt;td>&lt;strong>27&lt;/strong>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;a
+href="https://docs.microsoft.com/learn/modules/prepare-data-migration-finance-operations/"
+target="_blank"
+>Prepare data for migration to Finance and Operations apps&lt;/a>&lt;/td>
+&lt;td>&lt;strong>28&lt;/strong>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;a
+href="https://docs.microsoft.com/learn/modules/external-data-sources-finance-operations/"
+target="_blank"
+>Manage data sources with external data stores in Finance and Operations apps&lt;/a>&lt;/td>
+&lt;td>&lt;strong>29&lt;/strong>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;a
+href="https://docs.microsoft.com/learn/modules/integrate-azure-finance-operations/"
+target="_blank"
+>Integrate Finance and Operations apps with Microsoft Azure&lt;/a>&lt;/td>
+&lt;td>&lt;strong>29&lt;/strong>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;a
+href="https://docs.microsoft.com/learn/modules/connect-power-platform-finance-operations/"
+target="_blank"
+>Connect to Microsoft Power Platform services with Finance and Operations apps&lt;/a>&lt;/td>
+&lt;td>&lt;strong>30&lt;/strong>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>&lt;a
+href="https://docs.microsoft.com/learn/paths/migrate-data-go-live-finance-operations/"
+target="_blank"
+>Migrate data and go live with Finance and Operations apps&lt;/a>&lt;/strong>&lt;/td>
+&lt;td>&lt;a
+href="https://docs.microsoft.com/learn/modules/prepare-data-migration-finance-operations/"
+target="_blank"
+>Prepare data for migration to Finance and Operations apps&lt;/a>&lt;/td>
+&lt;td>&lt;strong>31&lt;/strong>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;a
+href="https://docs.microsoft.com/learn/modules/work-data-management-finance-operations/"
+target="_blank"
+>Work with data management in Finance and Operations apps&lt;/a>&lt;/td>
+&lt;td>&lt;strong>32&lt;/strong>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;a
+href="https://docs.microsoft.com/learn/modules/perform-uat-finance-operations/"
+target="_blank"
+>Perform user acceptance testing in Finance and Operations apps&lt;/a>&lt;/td>
+&lt;td>&lt;strong>33&lt;/strong>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;a
+href="https://docs.microsoft.com/learn/modules/prepare-go-live-finance-operations/"
+target="_blank"
+>Prepare to go-live with Finance and Operations apps&lt;/a>&lt;/td>
+&lt;td>&lt;strong>34&lt;/strong>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item></channel></rss>

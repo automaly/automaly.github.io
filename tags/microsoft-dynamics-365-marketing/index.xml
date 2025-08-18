@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Microsoft Dynamics 365 Marketing on Automaly</title><link>https://automaly.com/tags/microsoft-dynamics-365-marketing/</link><description>Recent content in Microsoft Dynamics 365 Marketing on Automaly</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>luan52@outlook.com (Max Nguyen)</managingEditor><webMaster>luan52@outlook.com (Max Nguyen)</webMaster><lastBuildDate>Sun, 05 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://automaly.com/tags/microsoft-dynamics-365-marketing/index.xml" rel="self" type="application/rss+xml"/><item><title>MB-220: Microsoft Dynamics 365 Marketing Functional Consultant</title><link>https://automaly.com/cert-learn/biz-app-learning/2023-02-05-mb-220/</link><pubDate>Sun, 05 Feb 2023 00:00:00 +0000</pubDate><author>luan52@outlook.com (Max Nguyen)</author><guid>https://automaly.com/cert-learn/biz-app-learning/2023-02-05-mb-220/</guid><description>&lt;p>&lt;strong>Documentation&lt;/strong> &lt;a
+href="https://learn.microsoft.com/en-us/dynamics365/marketing/overview"
+target="_blank"
+>https://learn.microsoft.com/en-us/dynamics365/marketing/overview&lt;/a>&lt;/p>
+&lt;p>&lt;strong>Basic:&lt;/strong> &lt;a
+href="https://learn.microsoft.com/en-us/training/paths/learn-fundamentals-of-microsoft-dynamics-365-marketing/"
+target="_blank"
+>Learn the fundamentals of Microsoft Dynamics 365 Marketing&lt;/a>&lt;/p>
+&lt;p>&lt;strong>Exam/Learning Path:&lt;/strong> &lt;a
+href="https://docs.microsoft.com/certifications/exams/mb-220"
+target="_blank"
+>https://docs.microsoft.com/certifications/exams/mb-220&lt;/a>&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>&lt;strong>Learning Path&lt;/strong>&lt;/th>
+&lt;th>&lt;strong>Module&lt;/strong>&lt;/th>
+&lt;th>&lt;strong>Week&lt;/strong>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;strong>&lt;a
+href="https://docs.microsoft.com/learn/paths/get-started-with-marketing/"
+target="_blank"
+>Set up Dynamics 365 Marketing and configure advanced settings&lt;/a>&lt;/strong>&lt;/td>
+&lt;td>&lt;a
+href="https://docs.microsoft.com/learn/modules/get-started-set-up-and-manage/"
+target="_blank"
+>Set up and manage Dynamics 365 Marketing&lt;/a>&lt;/td>
+&lt;td>&lt;strong>1&lt;/strong>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;a
+href="https://docs.microsoft.com/learn/modules/get-started-advanced-configuration/"
+target="_blank"
+>Advanced configuration for Dynamics 365 Marketing&lt;/a>&lt;/td>
+&lt;td>&lt;strong>2&lt;/strong>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;a
+href="https://docs.microsoft.com/learn/modules/review-authentication-dynamics-365-marketing/"
+target="_blank"
+>Review domain authentication, email best practices, and GDPR in Dynamics 365 Marketing&lt;/a>&lt;/td>
+&lt;td>&lt;strong>3&lt;/strong>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>&lt;a
+href="https://docs.microsoft.com/learn/paths/work-core-features-marketing/"
+target="_blank"
+>Work with core features in Dynamics 365 Marketing&lt;/a>&lt;/strong>&lt;/td>
+&lt;td>&lt;a
+href="https://docs.microsoft.com/learn/modules/manage-assets-content-settings/"
+target="_blank"
+>Manage assets and content settings in Dynamics 365 Marketing&lt;/a>&lt;/td>
+&lt;td>&lt;strong>4&lt;/strong>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;a
+href="https://docs.microsoft.com/learn/modules/manage-customers/"
+target="_blank"
+>Manage customers in Dynamics 365 Marketing&lt;/a>&lt;/td>
+&lt;td>&lt;strong>4&lt;/strong>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;a
+href="https://docs.microsoft.com/learn/modules/manage-forms-pages-subscriptions/"
+target="_blank"
+>Manage forms and pages in Dynamics 365 Marketing&lt;/a>&lt;/td>
+&lt;td>&lt;strong>5&lt;/strong>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;a
+href="https://docs.microsoft.com/learn/modules/manage-emails-journey/"
+target="_blank"
+>Manage emails, segments, and journeys in Dynamics 365 Marketing&lt;/a>&lt;/td>
+&lt;td>&lt;strong>6&lt;/strong>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;a
+href="https://docs.microsoft.com/learn/modules/manage-content-event-triggers-journeys/"
+target="_blank"
+>Manage content, event triggers, and journeys in real-time marketing with Dynamics 365 Marketing&lt;/a>&lt;/td>
+&lt;td>&lt;strong>7&lt;/strong>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;a
+href="https://docs.microsoft.com/learn/modules/manage-subscription-centers-double-opt/"
+target="_blank"
+>Manage subscription centers and double opt-in in Dynamics 365 Marketing&lt;/a>&lt;/td>
+&lt;td>&lt;strong>8&lt;/strong>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;a
+href="https://docs.microsoft.com/learn/modules/manage-websites-redirects-social/"
+target="_blank"
+>Manage website visits, redirect URLs, and social postings in Dynamics 365 Marketing&lt;/a>&lt;/td>
+&lt;td>&lt;strong>8&lt;/strong>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>&lt;a
+href="https://docs.microsoft.com/learn/paths/manage-events-dynamics-365-marketing/"
+target="_blank"
+>Manage events in Dynamics 365 Marketing&lt;/a>&lt;/strong>&lt;/td>
+&lt;td>&lt;a
+href="https://docs.microsoft.com/learn/modules/create-event-marketing/"
+target="_blank"
+>Create an on-site event in Dynamics 365 Marketing&lt;/a>&lt;/td>
+&lt;td>&lt;strong>9&lt;/strong>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;a
+href="https://docs.microsoft.com/learn/modules/create-webinar-event-dynamics-365-marketing/"
+target="_blank"
+>Create a webinar event in Dynamics 365 Marketing&lt;/a>&lt;/td>
+&lt;td>&lt;strong>10&lt;/strong>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;a
+href="https://docs.microsoft.com/learn/modules/promote-events-dynamics-365-marketing/"
+target="_blank"
+>Promote events, manage registration and check-ins, and review results in Dynamics 365 Marketing&lt;/a>&lt;/td>
+&lt;td>&lt;strong>11&lt;/strong>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;a
+href="https://docs.microsoft.com/learn/modules/advanced-event-management-marketing/"
+target="_blank"
+>Advanced event management features in Dynamics 365 Marketing&lt;/a>&lt;/td>
+&lt;td>&lt;strong>11&lt;/strong>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>&lt;a
+href="https://docs.microsoft.com/learn/paths/analyze-marketing-insights/"
+target="_blank"
+>Analyze insights in Dynamics 365 Marketing&lt;/a>&lt;/strong>&lt;/td>
+&lt;td>&lt;a
+href="https://docs.microsoft.com/learn/modules/analyze-insights-marketing/"
+target="_blank"
+>Evaluate marketing initiatives with analytics in Dynamics 365 Marketing&lt;/a>&lt;/td>
+&lt;td>&lt;strong>12&lt;/strong>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;a
+href="https://docs.microsoft.com/learn/modules/access-interpret-analytics-marketing/"
+target="_blank"
+>Access and interpret analytics with Dynamics 365 Marketing&lt;/a>&lt;/td>
+&lt;td>&lt;strong>13&lt;/strong>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;a
+href="https://docs.microsoft.com/learn/modules/marketing-calendar/"
+target="_blank"
+>Review the marketing calendar in Dynamics 365 Marketing&lt;/a>&lt;/td>
+&lt;td>&lt;strong>13&lt;/strong>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item></channel></rss>

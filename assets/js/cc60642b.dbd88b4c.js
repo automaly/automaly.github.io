@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunknuxulutest=self.webpackChunknuxulutest||[]).push([[7453],{87654:t=>{t.exports=JSON.parse('{"tag":{"label":"Kusto","permalink":"/tags/kusto","allTagsPath":"/tags","count":1,"unlisted":false},"listMetadata":{"permalink":"/tags/kusto","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog title"}}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunknuxulutest=self.webpackChunknuxulutest||[]).push([[1430],{80860:t=>{t.exports=JSON.parse('{"tag":{"label":"xpp","permalink":"/tags/xpp","allTagsPath":"/tags","count":1,"unlisted":false},"listMetadata":{"permalink":"/tags/xpp","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog title"}}')}}]);

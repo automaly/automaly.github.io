@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Finops on Automaly</title><link>https://automaly.com/series/finops/</link><description>Recent content in Finops on Automaly</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>luan52@outlook.com (Max Nguyen)</managingEditor><webMaster>luan52@outlook.com (Max Nguyen)</webMaster><atom:link href="https://automaly.com/series/finops/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://automaly.com/awesomefinops/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>luan52@outlook.com (Max Nguyen)</author><guid>https://automaly.com/awesomefinops/</guid><description>&lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6612671638545440"
+crossorigin="anonymous">&lt;/script>
+&lt;h1 class="relative group">&lt;a
+href="https://github.com/Dynamics365/One-stop-Dynamics-365-Finance-Operations"
+target="_blank"
+>One-stop Dynamics 365 Finance Operations&lt;/a>
+&lt;div id="one-stop-dynamics-365-finance-operations" class="anchor">&lt;/div>
+&lt;/h1>
+&lt;h2 class="relative group">1. Offical document
+&lt;div id="1-offical-document" class="anchor">&lt;/div>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a
+href="https://learn.microsoft.com/en-us/dynamics365/fin-ops-core/fin-ops/"
+target="_blank"
+>Development and administration for Finance and operations apps&lt;/a>&lt;/li>
+&lt;li>&lt;a
+href="https://learn.microsoft.com/en-us/dynamics365/finance/finance-welcome"
+target="_blank"
+>Dynamics 365 Finance&lt;/a>&lt;/li>
+&lt;li>&lt;a
+href="https://learn.microsoft.com/en-us/dynamics365/supply-chain/supply-chain-management-welcome"
+target="_blank"
+>Dynamics 365 Supply Chain Management&lt;/a>&lt;/li>
+&lt;li>&lt;a
+href="https://learn.microsoft.com/en-us/dynamics365/commerce/welcome"
+target="_blank"
+>Dynamics 365 Commerce&lt;/a>&lt;/li>
+&lt;li>&lt;a
+href="https://learn.microsoft.com/en-us/dynamics365/human-resources/welcome"
+target="_blank"
+>Dynamics 365 Human Resources&lt;/a>&lt;/li>
+&lt;li>&lt;a
+href="https://cloudblogs.microsoft.com/dynamics365/product/dynamics-365-finance/?sort-by=newest-oldest&amp;amp;date=any"
+target="_blank"
+>Dynamics 365 Finance Product updates&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">2. Unified admin experience for finance and operations apps
+&lt;div id="2-unified-admin-experience-for-finance-and-operations-apps" class="anchor">&lt;/div>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a
+href="https://learn.microsoft.com/en-us/power-platform/admin/unified-experience/admin-trials"
+target="_blank"
+>Unified admin trials&lt;/a>&lt;/li>
+&lt;li>&lt;a
+href="https://learn.microsoft.com/en-us/power-platform/developer/unified-experience/finance-operations-dev-overview"
+target="_blank"
+>Unified developer experience&lt;/a>&lt;/li>
+&lt;li>&lt;a
+href="https://cloudblogs.microsoft.com/dynamics365/it/2023/09/15/announcing-unified-trial-and-developer-environments-for-dynamics-365-finance-and-operations-apps/"
+target="_blank"
+>Announcing Unified Trial and Developer Environments for Dynamics 365 Finance and Operations apps&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">3. Learning and Certificate
+&lt;div id="3-learning-and-certificate" class="anchor">&lt;/div>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a
+href="https://docs.microsoft.com/en-us/learn/browse/?expanded=dynamics-365&amp;amp;products=dynamics-finance-operations%2Cdynamics-scm&amp;amp;roles=developer"
+target="_blank"
+>Microsoft learn&lt;/a>&lt;/li>
+&lt;li>&lt;a
+href="https://www.d365implementationguide.com/books/asvr/#p=iii"
+target="_blank"
+>Dynamics 365 Success by Design Implementation Guide&lt;/a>&lt;/li>
+&lt;li>&lt;a
+href="https://automaly.com/ms-learning/ms-certificate-learning/2023-02-05-mb-300/">Exam MB-300: Microsoft Dynamics 365: Core Finance and Operations&lt;/a>&lt;/li>
+&lt;li>&lt;a
+href="https://automaly.com/ms-learning/lab">Dynamics 365 and Power Platform certificates practice labs&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">4. FastTrack resource
+&lt;div id="4-fasttrack-resource" class="anchor">&lt;/div>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a
+href="https://community.dynamics.com/blogs/?blogid=e624b369-bfb9-4c57-8f1b-b3656ac91f5a&amp;amp;groupid=fe7f279c-2"
+target="_blank"
+>Dynamics 365 Finance Operations FastTrack TechTalks&lt;/a>&lt;/li>
+&lt;li>&lt;a
+href="https://community.dynamics.com/blogs/?blogid=5628282d-694f-46c5-9393-48307ffb33e1"
+target="_blank"
+>Dynamics 365 Finance Operations FastTrack Blog&lt;/a>&lt;/li>
+&lt;li>&lt;a
+href="https://learn.microsoft.com/en-us/shows/dynamics-365-fasttrack-architecture-insights/"
+target="_blank"
+>Dynamics 365 Finance Operations FastTrack Architecture Insights&lt;/a> - Catch up on the recommended implementation practices across Customer Engagement and Finance &amp;amp; Operations apps. The content is created and shared by the solution architects from Dynamics 365 engineering team.&lt;/li>
+&lt;li>&lt;a
+href="https://github.com/microsoft/Dynamics-365-FastTrack-Implementation-Assets"
+target="_blank"
+>Dynamics 365 Finance Operations FastTrack Implementation guides&lt;/a> - The Dynamics 365 FastTrack team uses this repository to share Dynamics 365 Customer Service, Dynamics 365 F&amp;amp;O and Commerce best implementation guidelines&lt;/li>
+&lt;li>&lt;a
+href="https://github.com/Microsoft/Dynamics-AX-Integration"
+target="_blank"
+>Dynamics AX Integration samples and demos&lt;/a>&lt;/li>
+&lt;li>&lt;a
+href="https://github.com/microsoft/d365-scm-telemetry"
+target="_blank"
+>Sample code for customer/partner telemetry emitted by the Dynamics 365 Supply Chain product.&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">5. Tools and Scripts
+&lt;div id="5-tools-and-scripts" class="anchor">&lt;/div>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a
+href="https://microsoft.github.io/finops-toolkit/guide"
+target="_blank"
+>https://microsoft.github.io/finops-toolkit/guide&lt;/a>&lt;/li>
+&lt;li>&lt;a
+href="https://github.com/Microsoft/Recurring-Integrations-Scheduler"
+target="_blank"
+>File-based integration scenarios for Dynamics 365 Finance and Dynamics 365 Supply Chain Management&lt;/a>&lt;/li>
+&lt;li>&lt;a
+href="https://github.com/microsoft/Dynamics365-Xpp-Samples-Tools"
+target="_blank"
+>CI-CD Pipeline X++ Samples&lt;/a>&lt;/li>
+&lt;li>&lt;a
+href="https://github.com/milnet92/MXTXppInterpreter"
+target="_blank"
+>MXT - X++ Interpreter&lt;/a>&lt;/li>
+&lt;li>&lt;a
+href="https://github.com/d365collaborative/d365fo.tools"
+target="_blank"
+>d365fo.tools&lt;/a> - Powershell module to handle the different management tasks&lt;/li>
+&lt;li>&lt;a
+href="https://github.com/d365collaborative/d365fo.integrations"
+target="_blank"
+>d365fo.integrations&lt;/a> - Powershell functions for integration with D365FO.&lt;/li>
+&lt;li>&lt;a
+href="https://github.com/bferreti/DynamicsAxTools"
+target="_blank"
+>DynamicsAxTools&lt;/a> - Scripts set to monitor and generate AX performance reports.&lt;/li>
+&lt;li>&lt;a
+href="https://github.com/microsoft/fin-ops-doc-scripts/"
+target="_blank"
+>Scripts for running documentation reports for Dynamics 365 Finance&lt;/a>&lt;/li>
+&lt;li>&lt;a
+href="https://github.com/microsoft/Dynamics365FO-AppChecker"
+target="_blank"
+>The Dynamics Application checker&lt;/a>&lt;/li>
+&lt;li>&lt;a
+href="https://github.com/microsoft/dynamics365f-o-custom-help"
+target="_blank"
+>Custom help system for Microsoft Dynamics 365 Finance and Operations&lt;/a>&lt;/li>
+&lt;li>&lt;a
+href="https://github.com/microsoft/2LCS"
+target="_blank"
+>Lifecycle Services Companion App for administrators&lt;/a>&lt;/li>
+&lt;li>&lt;a
+href="https://github.com/ptornich/LabelFileGenerator"
+target="_blank"
+>LabelFileGenerator&lt;/a> - Generate label files for D365FO core models in specific languages.&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">6. Co-pilot Fin&amp;amp;SCM
+&lt;div id="6-co-pilot-finscm" class="anchor">&lt;/div>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a
+href="https://dynamics.microsoft.com/en-us/availability-reports/copilotreport/"
+target="_blank"
+>Copilot international availabitity report&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">7. Add-ins
+&lt;div id="7-add-ins" class="anchor">&lt;/div>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a
+href="https://github.com/microsoft/Dynamics365-Project-Operations-PowerApps"
+target="_blank"
+>Sample Power Apps for Dynamics 365 Project Operations&lt;/a>&lt;/li>
+&lt;li>&lt;a
+href="https://github.com/microsoft/Inventory-Visibility-Add-in-Examples"
+target="_blank"
+>Sample code for Dynamics 365 Supply Chain Management - Inventory Visibility Add-in&lt;/a>&lt;/li>
+&lt;li>&lt;a
+href="https://github.com/microsoft/Templates-For-Dynamics-365-Supply-Chain-Management-Demand-Forecasting-With-Azure-Machine-Learning"
+target="_blank"
+>Samples, templates and setup guides in order to run demand forecasting in Azure Machine Learning Service and integrate with Dynamics 365 SCM&lt;/a>&lt;/li>
+&lt;li>&lt;a
+href="https://github.com/microsoft/Dynamics365Commerce.Solutions"
+target="_blank"
+>Dynamics 365 Commerce end to end sample solutions&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">8. Development and utilities
+&lt;div id="8-development-and-utilities" class="anchor">&lt;/div>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a
+href="https://github.com/TrudAX/XppTools"
+target="_blank"
+>XppTools&lt;/a> - Useful X++ utilities and code samples.&lt;/li>
+&lt;li>&lt;a
+href="https://github.com/TrudAX/TRUDUtilsD365"
+target="_blank"
+>TRUDUtilsD365&lt;/a> - A set of add-ins to perform quickly common development tasks.&lt;/li>
+&lt;li>&lt;a
+href="https://github.com/arbelatech/aotbrowser"
+target="_blank"
+>AOT Browser&lt;/a> - Dynamics 365 for Finance and Operations AOT Browser.&lt;/li>
+&lt;li>&lt;a
+href="https://github.com/ameyer505/D365FOAdminToolkit"
+target="_blank"
+>D365FO Admin Toolkit&lt;/a>.&lt;/li>
+&lt;li>&lt;a
+href="https://github.com/drivardxrm/Driv.XTB.FinOpsVirtualEntityManager"
+target="_blank"
+>Driv.XTB.FinOpsVirtualEntityManager&lt;/a>&lt;/li>
+&lt;li>&lt;a
+href="https://ax.docentric.com/free-edition/"
+target="_blank"
+>Docentric AX Free Edition&lt;/a> - Improves print destinations for all your reports in MS Dynamics 365 for Finance and Operations.&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">9. Youtube channels
+&lt;div id="9-youtube-channels" class="anchor">&lt;/div>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a
+href="https://www.youtube.com/channel/UCBO2POgO41qokZzwSFTsn2Q/featured"
+target="_blank"
+>Dynamics 365 for Finance and Operations&lt;/a> - Aimed to software engineers and those involved in developing solutions. This channel is NOT a Microsoft official.&lt;/li>
+&lt;li>&lt;a
+href="https://www.youtube.com/watch?v=46ylO7raZAo&amp;amp;list=PLcakwueIHoT_SYfIaPGoOhloFoCXiUSyW"
+target="_blank"
+>Microsoft Dynamics 365 Unified Operations&lt;/a> - Official Microsoft D365FO playlist.&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">10. Cool features are under Preview
+&lt;div id="10-cool-features-are-under-preview" class="anchor">&lt;/div>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a
+href="https://learn.microsoft.com/en-us/dynamics365/finance/business-performance-analytics/business-performance-analytics-home-page"
+target="_blank"
+>About business performance analytics&lt;/a>&lt;/li>
+&lt;li>&lt;a
+href="https://devblogs.microsoft.com/powerplatform/the-visual-studio-2022-add-in-is-now-available-for-dynamics-365-for-financials-and-operations/"
+target="_blank"
+>The Visual Studio 2022 add-in is now available for Dynamics 365 for Financials and Operations.&lt;/a>&lt;/li>
+&lt;li>&lt;a
+href="https://devblogs.microsoft.com/ise/2022/06/14/xpp-and-git/"
+target="_blank"
+>X++ And Git: A Basic Setup&lt;/a>&lt;/li>
+&lt;/ul></description></item></channel></rss>
