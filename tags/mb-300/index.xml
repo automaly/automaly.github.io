@@ -1,222 +1,132 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>MB-300 on Automaly</title><link>https://automaly.com/tags/mb-300/</link><description>Recent content in MB-300 on Automaly</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>luan52@outlook.com (Hi there, this is Max Nguyen)</managingEditor><webMaster>luan52@outlook.com (Hi there, this is Max Nguyen)</webMaster><lastBuildDate>Sun, 05 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://automaly.com/tags/mb-300/index.xml" rel="self" type="application/rss+xml"/><item><title>MB-300 Microsoft Dynamics 365: Core Finance and Operations</title><link>https://automaly.com/cert-learn/biz-app-learning/2023-02-05-mb-300/</link><pubDate>Sun, 05 Feb 2023 00:00:00 +0000</pubDate><author>luan52@outlook.com (Hi there, this is Max Nguyen)</author><guid>https://automaly.com/cert-learn/biz-app-learning/2023-02-05-mb-300/</guid><description>&lt;p&gt;&lt;strong&gt;Exam/Learning Path:&lt;/strong&gt; &lt;a
-href="https://docs.microsoft.com/certifications/exams/mb-300"
-target="_blank"
-&gt;https://docs.microsoft.com/certifications/exams/mb-300&lt;/a&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>MB-300 on Automaly</title><link>https://automaly.com/tags/mb-300/</link><description>Recent content in MB-300 on Automaly</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>luan52@outlook.com (Hi there, this is Max Nguyen)</managingEditor><webMaster>luan52@outlook.com (Hi there, this is Max Nguyen)</webMaster><lastBuildDate>Sun, 05 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://automaly.com/tags/mb-300/index.xml" rel="self" type="application/rss+xml"/><item><title>MB-300 Microsoft Dynamics 365: Core Finance and Operations</title><link>https://automaly.com/cert-learn/biz-app-learning/2023-02-05-mb-300/</link><pubDate>Sun, 05 Feb 2023 00:00:00 +0000</pubDate><author>luan52@outlook.com (Hi there, this is Max Nguyen)</author><guid>https://automaly.com/cert-learn/biz-app-learning/2023-02-05-mb-300/</guid><description>&lt;p&gt;&lt;strong&gt;Exam/Learning Path:&lt;/strong&gt; &lt;a href="https://docs.microsoft.com/certifications/exams/mb-300" target="_blank" rel="noreferrer"&gt;https://docs.microsoft.com/certifications/exams/mb-300&lt;/a&gt;&lt;/p&gt;
 &lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;&lt;strong&gt;Learning Path&lt;/strong&gt;&lt;/th&gt;
-&lt;th&gt;&lt;strong&gt;Module&lt;/strong&gt;&lt;/th&gt;
-&lt;th&gt;&lt;strong&gt;Week&lt;/strong&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;&lt;a
-href="https://docs.microsoft.com/learn/paths/get-started-finance-operations/"
-target="_blank"
-&gt;Get started with Finance and Operations apps&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a
-href="https://docs.microsoft.com/learn/modules/dynamics-365-introduction/"
-target="_blank"
-&gt;Introduction to Microsoft Dynamics 365&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;1&lt;/strong&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a
-href="https://docs.microsoft.com/learn/modules/navigate-finance-operations/"
-target="_blank"
-&gt;Navigate Finance and Operations apps&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;2&lt;/strong&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a
-href="https://docs.microsoft.com/learn/modules/get-started-financial-management-dyn365-finance/"
-target="_blank"
-&gt;Get started with Dynamics 365 Finance&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;3&lt;/strong&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a
-href="https://docs.microsoft.com/learn/modules/get-started-supply-chain-management-dyn365-supply-chain-mgmt/"
-target="_blank"
-&gt;Get started with Dynamics 365 Supply Chain Management&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;4&lt;/strong&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a
-href="https://docs.microsoft.com/learn/modules/get-started-production-control-dyn365-supply-chain-mgmt/"
-target="_blank"
-&gt;Get started with production control in Dynamics 365 Supply Chain Management&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;5&lt;/strong&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a
-href="https://docs.microsoft.com/learn/modules/get-help-finance-operations/"
-target="_blank"
-&gt;Get help and learn more about Finance and Operations apps&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;6&lt;/strong&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;&lt;a
-href="https://docs.microsoft.com/learn/paths/use-lcs-design-plan-implementation-finance-operations/"
-target="_blank"
-&gt;Use Lifecycle Services to design and plan an implementation of Finance and Operations apps&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a
-href="https://docs.microsoft.com/learn/modules/get-started-lifecycle-services-finance-operations/"
-target="_blank"
-&gt;Get started with Lifecycle Services for Finance and Operations apps&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;7&lt;/strong&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a
-href="https://docs.microsoft.com/learn/modules/design-plan-implementation-finance-operations/"
-target="_blank"
-&gt;Design and plan an implementation of Finance and Operations apps&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;8&lt;/strong&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a
-href="https://docs.microsoft.com/learn/modules/dynamics-translation-service/"
-target="_blank"
-&gt;Translate Dynamics 365 apps and documentation with Dynamics 365 Translation Service&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;9&lt;/strong&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;&lt;a
-href="https://docs.microsoft.com/learn/paths/configure-your-organization-finance-ops/"
-target="_blank"
-&gt;Configure your organization in Finance and Operations apps&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a
-href="https://docs.microsoft.com/learn/modules/plan-config-global-address-book-finance-operations/"
-target="_blank"
-&gt;Plan and configure the global address book in Finance and Operations apps&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;10&lt;/strong&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a
-href="https://docs.microsoft.com/learn/modules/plan-implement-legal-entities-finance-operations/"
-target="_blank"
-&gt;Plan and implement legal entities in Finance and Operations apps&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;11&lt;/strong&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a
-href="https://docs.microsoft.com/learn/modules/plan-implement-security-finance-operations/"
-target="_blank"
-&gt;Plan and implement security in Finance and Operations apps&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;12&lt;/strong&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a
-href="https://docs.microsoft.com/learn/modules/setup-batch-jobs-finance-operations/"
-target="_blank"
-&gt;Set up batch jobs in Finance and Operations apps&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;13&lt;/strong&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a
-href="https://docs.microsoft.com/learn/modules/create-use-workflows-finance-operations/"
-target="_blank"
-&gt;Work with workflows in Finance and Operations apps&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;14&lt;/strong&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a
-href="https://docs.microsoft.com/learn/modules/design-build-mobile-apps-finance-operations/"
-target="_blank"
-&gt;Design and build mobile apps for Finance and Operations apps&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;15&lt;/strong&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a
-href="https://docs.microsoft.com/learn/modules/personalize-finance-operations/"
-target="_blank"
-&gt;Personalize Finance and Operations apps&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;16&lt;/strong&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a
-href="https://docs.microsoft.com/learn/modules/implement-common-integration-features-finance-ops/"
-target="_blank"
-&gt;Implement common integration features in Finance and Operations apps&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;17&lt;/strong&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a
-href="https://docs.microsoft.com/learn/modules/feature-management-finance-operations/"
-target="_blank"
-&gt;Feature management in Finance and Operations apps&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;18&lt;/strong&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;&lt;a
-href="https://docs.microsoft.com/learn/paths/migrate-data-go-live-finance-operations/"
-target="_blank"
-&gt;Migrate data and go live with Finance and Operations apps&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a
-href="https://docs.microsoft.com/learn/modules/prepare-data-migration-finance-operations/"
-target="_blank"
-&gt;Prepare data for migration to Finance and Operations apps&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;19&lt;/strong&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a
-href="https://docs.microsoft.com/learn/modules/work-data-management-finance-operations/"
-target="_blank"
-&gt;Work with data management in Finance and Operations apps&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;20&lt;/strong&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a
-href="https://docs.microsoft.com/learn/modules/perform-uat-finance-operations/"
-target="_blank"
-&gt;Perform user acceptance testing in Finance and Operations apps&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;21&lt;/strong&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a
-href="https://docs.microsoft.com/learn/modules/prepare-go-live-finance-operations/"
-target="_blank"
-&gt;Prepare to go-live with Finance and Operations apps&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;22&lt;/strong&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;&lt;a
-href="https://docs.microsoft.com/learn/paths/configure-analytics-reporting-finance-operations/"
-target="_blank"
-&gt;Configure and work with analytics and reporting in Finance and Operations apps&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a
-href="https://docs.microsoft.com/learn/modules/work-analytics-reporting-finance-operations/"
-target="_blank"
-&gt;Work with analytics and reporting in Finance and Operations apps&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;23&lt;/strong&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a
-href="https://docs.microsoft.com/learn/modules/configure-electronic-reporting-finance-operations/"
-target="_blank"
-&gt;Configure electronic reporting in Dynamics 365 Finance&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;24&lt;/strong&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;&lt;strong&gt;Learning Path&lt;/strong&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;strong&gt;Module&lt;/strong&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;strong&gt;Week&lt;/strong&gt;&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;&lt;a href="https://docs.microsoft.com/learn/paths/get-started-finance-operations/" target="_blank" rel="noreferrer"&gt;Get started with Finance and Operations apps&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;&lt;a href="https://docs.microsoft.com/learn/modules/dynamics-365-introduction/" target="_blank" rel="noreferrer"&gt;Introduction to Microsoft Dynamics 365&lt;/a&gt;&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;1&lt;/strong&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;td&gt;&lt;a href="https://docs.microsoft.com/learn/modules/navigate-finance-operations/" target="_blank" rel="noreferrer"&gt;Navigate Finance and Operations apps&lt;/a&gt;&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;2&lt;/strong&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;td&gt;&lt;a href="https://docs.microsoft.com/learn/modules/get-started-financial-management-dyn365-finance/" target="_blank" rel="noreferrer"&gt;Get started with Dynamics 365 Finance&lt;/a&gt;&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;3&lt;/strong&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;td&gt;&lt;a href="https://docs.microsoft.com/learn/modules/get-started-supply-chain-management-dyn365-supply-chain-mgmt/" target="_blank" rel="noreferrer"&gt;Get started with Dynamics 365 Supply Chain Management&lt;/a&gt;&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;4&lt;/strong&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;td&gt;&lt;a href="https://docs.microsoft.com/learn/modules/get-started-production-control-dyn365-supply-chain-mgmt/" target="_blank" rel="noreferrer"&gt;Get started with production control in Dynamics 365 Supply Chain Management&lt;/a&gt;&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;5&lt;/strong&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;td&gt;&lt;a href="https://docs.microsoft.com/learn/modules/get-help-finance-operations/" target="_blank" rel="noreferrer"&gt;Get help and learn more about Finance and Operations apps&lt;/a&gt;&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;6&lt;/strong&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;&lt;a href="https://docs.microsoft.com/learn/paths/use-lcs-design-plan-implementation-finance-operations/" target="_blank" rel="noreferrer"&gt;Use Lifecycle Services to design and plan an implementation of Finance and Operations apps&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;&lt;a href="https://docs.microsoft.com/learn/modules/get-started-lifecycle-services-finance-operations/" target="_blank" rel="noreferrer"&gt;Get started with Lifecycle Services for Finance and Operations apps&lt;/a&gt;&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;7&lt;/strong&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;td&gt;&lt;a href="https://docs.microsoft.com/learn/modules/design-plan-implementation-finance-operations/" target="_blank" rel="noreferrer"&gt;Design and plan an implementation of Finance and Operations apps&lt;/a&gt;&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;8&lt;/strong&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;td&gt;&lt;a href="https://docs.microsoft.com/learn/modules/dynamics-translation-service/" target="_blank" rel="noreferrer"&gt;Translate Dynamics 365 apps and documentation with Dynamics 365 Translation Service&lt;/a&gt;&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;9&lt;/strong&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;&lt;a href="https://docs.microsoft.com/learn/paths/configure-your-organization-finance-ops/" target="_blank" rel="noreferrer"&gt;Configure your organization in Finance and Operations apps&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;&lt;a href="https://docs.microsoft.com/learn/modules/plan-config-global-address-book-finance-operations/" target="_blank" rel="noreferrer"&gt;Plan and configure the global address book in Finance and Operations apps&lt;/a&gt;&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;10&lt;/strong&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;td&gt;&lt;a href="https://docs.microsoft.com/learn/modules/plan-implement-legal-entities-finance-operations/" target="_blank" rel="noreferrer"&gt;Plan and implement legal entities in Finance and Operations apps&lt;/a&gt;&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;11&lt;/strong&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;td&gt;&lt;a href="https://docs.microsoft.com/learn/modules/plan-implement-security-finance-operations/" target="_blank" rel="noreferrer"&gt;Plan and implement security in Finance and Operations apps&lt;/a&gt;&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;12&lt;/strong&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;td&gt;&lt;a href="https://docs.microsoft.com/learn/modules/setup-batch-jobs-finance-operations/" target="_blank" rel="noreferrer"&gt;Set up batch jobs in Finance and Operations apps&lt;/a&gt;&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;13&lt;/strong&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;td&gt;&lt;a href="https://docs.microsoft.com/learn/modules/create-use-workflows-finance-operations/" target="_blank" rel="noreferrer"&gt;Work with workflows in Finance and Operations apps&lt;/a&gt;&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;14&lt;/strong&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;td&gt;&lt;a href="https://docs.microsoft.com/learn/modules/design-build-mobile-apps-finance-operations/" target="_blank" rel="noreferrer"&gt;Design and build mobile apps for Finance and Operations apps&lt;/a&gt;&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;15&lt;/strong&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;td&gt;&lt;a href="https://docs.microsoft.com/learn/modules/personalize-finance-operations/" target="_blank" rel="noreferrer"&gt;Personalize Finance and Operations apps&lt;/a&gt;&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;16&lt;/strong&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;td&gt;&lt;a href="https://docs.microsoft.com/learn/modules/implement-common-integration-features-finance-ops/" target="_blank" rel="noreferrer"&gt;Implement common integration features in Finance and Operations apps&lt;/a&gt;&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;17&lt;/strong&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;td&gt;&lt;a href="https://docs.microsoft.com/learn/modules/feature-management-finance-operations/" target="_blank" rel="noreferrer"&gt;Feature management in Finance and Operations apps&lt;/a&gt;&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;18&lt;/strong&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;&lt;a href="https://docs.microsoft.com/learn/paths/migrate-data-go-live-finance-operations/" target="_blank" rel="noreferrer"&gt;Migrate data and go live with Finance and Operations apps&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;&lt;a href="https://docs.microsoft.com/learn/modules/prepare-data-migration-finance-operations/" target="_blank" rel="noreferrer"&gt;Prepare data for migration to Finance and Operations apps&lt;/a&gt;&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;19&lt;/strong&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;td&gt;&lt;a href="https://docs.microsoft.com/learn/modules/work-data-management-finance-operations/" target="_blank" rel="noreferrer"&gt;Work with data management in Finance and Operations apps&lt;/a&gt;&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;20&lt;/strong&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;td&gt;&lt;a href="https://docs.microsoft.com/learn/modules/perform-uat-finance-operations/" target="_blank" rel="noreferrer"&gt;Perform user acceptance testing in Finance and Operations apps&lt;/a&gt;&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;21&lt;/strong&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;td&gt;&lt;a href="https://docs.microsoft.com/learn/modules/prepare-go-live-finance-operations/" target="_blank" rel="noreferrer"&gt;Prepare to go-live with Finance and Operations apps&lt;/a&gt;&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;22&lt;/strong&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;&lt;a href="https://docs.microsoft.com/learn/paths/configure-analytics-reporting-finance-operations/" target="_blank" rel="noreferrer"&gt;Configure and work with analytics and reporting in Finance and Operations apps&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;&lt;a href="https://docs.microsoft.com/learn/modules/work-analytics-reporting-finance-operations/" target="_blank" rel="noreferrer"&gt;Work with analytics and reporting in Finance and Operations apps&lt;/a&gt;&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;23&lt;/strong&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;td&gt;&lt;a href="https://docs.microsoft.com/learn/modules/configure-electronic-reporting-finance-operations/" target="_blank" rel="noreferrer"&gt;Configure electronic reporting in Dynamics 365 Finance&lt;/a&gt;&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;24&lt;/strong&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
 &lt;/table&gt;</description></item></channel></rss>
